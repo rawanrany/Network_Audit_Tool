@@ -60,6 +60,4 @@ Report includes:
 ## Author
 
 Rawan Rany
-
-
 GitHub: github.com/rawanrany
