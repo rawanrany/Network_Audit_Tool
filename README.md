@@ -60,7 +60,6 @@ Report includes:
 ## Author
 
 Rawan Rany
-Computer and Information Sciences — Ain Shams University
-Networking and Cybersecurity — WE for Applied Technology School
+
 
 GitHub: github.com/rawanrany
