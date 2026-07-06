@@ -1,8 +1,7 @@
 # Network Audit Tool
 
-A Python-based network security audit tool that scans a target host, identifies open ports and running services, assigns severity ratings, and automatically generates a professional PDF report — the kind you'd deliver to a real client.
+A Python-based network security audit tool that scans a target host, identifies open ports and running services, assigns severity ratings, and automatically generates a professional PDF report.
 
-Built as part of a penetration testing portfolio project.
 
 ---
 
